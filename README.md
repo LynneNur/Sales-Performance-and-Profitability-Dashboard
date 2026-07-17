@@ -39,17 +39,21 @@ The dashboard enables business users to monitor KPIs, identify profitable produc
 
 ![Regional Analysis](screenshots/regional-performance-dashboard.png)
 
+### Regional Insights
+
+![Regional Insights](screenshots/regional-insights-dashboard.png)
+
 ### Product Analysis
 
-(image)
+![Product Analysis](screenshots/product-performance-dashboard.png)
 
 ### Product Insights
 
-(image)
+![Product Insights](screenshots/product-insight-dashboard.png)
 
 ### Trend Analysis
 
-(image)
+![Trend Analysis](screenshots/sales-performance-dashboard.png)
 
 ---
 
