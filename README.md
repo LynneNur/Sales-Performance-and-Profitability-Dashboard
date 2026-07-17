@@ -33,11 +33,11 @@ The dashboard enables business users to monitor KPIs, identify profitable produc
 
 ### Executive Overview
 
-(image)
+![Executive Overview](screenshots/executive-overview-dashboard.png)
 
 ### Regional Analysis
 
-(image)
+![Regional Analysis](screenshots/regional-performance-dashboard.png)
 
 ### Product Analysis
 
