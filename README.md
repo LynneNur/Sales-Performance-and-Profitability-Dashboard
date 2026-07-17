@@ -1,8 +1,6 @@
 # Sales-Performance-and-Profitability-Dashboard
 Analysis of Sales Performance and Profitability Across Different Region
 
-# Sales Performance & Profitability Dashboard
-
 ## Overview
 
 An interactive Power BI dashboard developed to analyze sales performance and profitability across different regions, products, and sales channels.
